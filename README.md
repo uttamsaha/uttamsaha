@@ -4,7 +4,7 @@
 <img align="right" alt="codding" width="500" src="https://i.ibb.co/0MxBN46/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d.gif"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uttamsaha&label=Profile%20views&color=0e75b6&style=flat" alt="uttamsaha" /> </p>
 <p align="left"> <a href="https://twitter.com/uttamsaha404" target="blank"><img src="https://img.shields.io/twitter/follow/uttamsaha404?logo=twitter&style=for-the-badge" alt="uttamsaha404" /></a> </p>
-<p align="left"> <a href="[https://twitter.com/uttamsaha404](https://www.youtube.com/@technotweaks9742)" target="blank"><img src="[https://img.shields.io/twitter/follow/uttamsaha404?logo=twitter&style=for-the-badge](https://cdn.icon-icons.com/icons2/2530/PNG/512/youtube_button_icon_151827.png)" alt="uttamsaha404" /></a> </p>
+<p align="left"> <a href="https://www.youtube.com/@technotweaks9742" target="blank"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/youtube_button_icon_151827.png" alt="uttamsaha404" /></a> </p>
 
 
 - 🔭 I’m currently working on [Blockchain,Advance Express & MongoDB Query](https://github.com/uttamsaha/Web3-Student-Feedback-System)
