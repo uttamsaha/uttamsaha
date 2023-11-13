@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **MERN, Linux**
 
-- 📫 How to reach me **uttamsaha.dev@gmail.com**
+- 📫 How to reach me **<a href="https://www.linkedin.com/in/uttamsaha404" target="_blank">LinkedIn</a>**
 
 - 📄 Know about my experiences [https://resume.link](https://resume.link)
 
