@@ -66,3 +66,5 @@ In my MERN career, I have almost 2+ years of industry experience and 4+ years of
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=uttamsaha&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+
+![snake gif](https://github.com/uttamsaha/uttamsaha/uttam.svg)
