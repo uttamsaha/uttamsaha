@@ -13,7 +13,7 @@ In my MERN career, I have almost 2+ years of industry experience and 4+ years of
 
 - 🔭 I’m currently working on [Blockchain,Advance Express & MongoDB Query](https://github.com/uttamsaha/Web3-Student-Feedback-System)
 
-- 🌱 I’m currently learning **Cloud, AWS, Azure**
+- 🌱 I’m currently learning **Cloud, AWS, Azure***
 
 - 👨‍💻 My Portfolio [https://uttamsaha.com](https://uttamsaha.com)
 
