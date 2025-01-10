@@ -1,29 +1,28 @@
-[![MasterHead](https://i.ibb.co/SsGwLrS/uttamsaha.png)](https://uttamsaha.com)
+[![MasterHead](https://i.ibb.co.com/qrcP0X4/uttamsdev.png)](https://uttamsdev.me)
 
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="29px"> It's Uttam Kumar Saha,</h1>
 
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=A+Full+Stack+Developer+(MERN);Experienced+Frontend+Developer;Skilled+Backend+Developer;Passionate+React.JS+Developer" alt="Typing SVG" /></h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uttamsaha&label=Profile%20views&color=0e75b6&style=flat" alt="uttamsaha" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uttamsdev&label=Profile%20views&color=0e75b6&style=flat" alt="uttamsdev" /> </p>
 
 ### 💫 About Me:
 
-<p align="justify">Hello Myself <b>Uttam Kumar Saha</b>, I'm a experienced MERN Stack Developer. My work is in MERN sector but i love competitive programming. When i have free time or any type of off day, i try to solve some problem for refreshing my mind. Problem solving is a power what give me lots of confidence.
-In my MERN career, I have almost 2+ years of industry experience and 4+ years of technical knowledge. I can build high-performing and high-quality websites that offer the best user experience. I always focus on the products I build and believe in quality over quantity. Let's collaborate and make some history together.</p>
+<p align="justify">Hi, I'm Uttam Kumar Saha (@uttamsdev), a Full Stack and Blockchain Developer from Bangladesh. With over a year of professional experience and three years of technical expertise, I create high-quality, user-friendly web applications. Specializing in front-end development, I'm passionate about transforming ideas into stunning digital experiences and eager to work with new technologies. Let's collaborate to bring innovative concepts to life and make a lasting impact.</p>
 
 - 🔭 I’m currently working on [Blockchain,Advance Express & MongoDB Query](https://github.com/uttamsaha/Web3-Student-Feedback-System)
 
 - 🌱 I’m currently learning **Cloud, AWS, Azure***
 
-- 👨‍💻 My Portfolio [https://uttamsaha.com](https://uttamsaha.com)
+- 👨‍💻 My Portfolio [https://uttamsdev.me](https://uttamsdev.me)
 
 - 💬 Ask me about **MERN, Linux**
 
-- 📫 How to reach me [LinkedIn](hhttps://www.linkedin.com/in/uttamsaha404)
+- 📫 How to reach me [LinkedIn](hhttps://www.linkedin.com/in/uttamsdev)
 
-- 📄 My Resume [Resume](https://drive.google.com/file/d/15cGK-4_Ehztpkeok0l64edu73t09AE6H/view?usp=sharing)
+- 📄 My Resume [Resume](https://drive.google.com/file/d/1KRQKQyGbWInKF07XiSrMN1o0FdELSCTp/view?usp=sharing)
 
-- ⚡ Fun fact **I am foodie :)**
+- ⚡ Email - **uttamsdev@gmail.com**
 
 ### Get in Touch
 
