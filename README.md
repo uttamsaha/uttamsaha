@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co.com/qrcP0X4/uttamsdev.png)](https://uttamsdev.me)
+[![MasterHead](https://i.ibb.co.com/qrcP0X4/uttamsdev.png)](https://www.uttamsaha.me/)
 
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="29px"> It's Uttam Kumar Saha,</h1>
 
@@ -14,9 +14,7 @@
 
 - 🌱 I’m currently learning **Cloud, AWS, Azure***
 
-- 👨‍💻 My Portfolio [https://uttamsdev.me](https://uttamsdev.me)
-
-- 💬 Ask me about **MERN, Linux**
+- 👨‍💻 My Portfolio [https://uttamsdev.me](https://www.uttamsaha.me/)
 
 - 📫 How to reach me [LinkedIn](hhttps://www.linkedin.com/in/uttamsdev)
 
@@ -26,9 +24,9 @@
 
 ### Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uttamsaha404/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uttamsdev/)
 [![YouTube](https://img.shields.io/badge/youtube-CD201F.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@technotweaks9742)
-[![Facebook](https://img.shields.io/badge/facebook-1877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/uttamsaha404)
+[![Facebook](https://img.shields.io/badge/facebook-1877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/uttamsdev)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/uttamsaha404)
 [![Skype](https://img.shields.io/badge/skype-00AFF0.svg?&style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/UlqUgBACVMqb)
 
