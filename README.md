@@ -8,9 +8,9 @@
 
 ### 💫 About Me:
 
-<p align="justify">Hi, I'm Uttam Kumar Saha (@uttamsdev), a Full Stack and Blockchain Developer from Bangladesh. With over a year of professional experience and three years of technical expertise, I create high-quality, user-friendly web applications. Specializing in front-end development, I'm passionate about transforming ideas into stunning digital experiences and eager to work with new technologies. Let's collaborate to bring innovative concepts to life and make a lasting impact.</p>
+<p align="justify">Hi, I'm Uttam Kumar Saha (@uttamsdev), a Full Stack from Bangladesh. With over a year of professional experience and three years of technical expertise, I create high-quality, user-friendly web applications. Specializing in front-end development, I'm passionate about transforming ideas into stunning digital experiences and eager to work with new technologies. Let's collaborate to bring innovative concepts to life and make a lasting impact.</p>
 
-- 🔭 I’m currently working on [Blockchain,Advance Express & MongoDB Query](https://github.com/uttamsaha/Web3-Student-Feedback-System)
+- 🔭 I’m currently working on [Blockchain, Prisma & Mongoose](https://github.com/uttamsaha/Web3-Student-Feedback-System)
 
 - 🌱 I’m currently learning **Cloud, AWS, Azure***
 
