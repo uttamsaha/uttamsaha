@@ -18,7 +18,7 @@
 
 - 📫 How to reach me [LinkedIn](hhttps://www.linkedin.com/in/uttamsdev)
 
-- 📄 My Resume [Resume](https://drive.google.com/file/d/1KRQKQyGbWInKF07XiSrMN1o0FdELSCTp/view?usp=sharing)
+- 📄 My Resume [Resume](https://drive.google.com/file/d/1KvAt6KgT3yfUUa845xsCHIJSA77pvVZR/view?usp=sharing)
 
 - ⚡ Email - **uttamsdev@gmail.com**
 
