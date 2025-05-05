@@ -17,7 +17,7 @@ projects.</p>
 
 - 🌱 I’m currently learning **Cloud, AWS, Azure***
 
-- 👨‍💻 My Portfolio [https://uttamsdev.me](https://www.uttamsaha.me/)
+- 👨‍💻 My Portfolio [https://uttamsaha.me](https://www.uttamsaha.me/)
 
 - 📫 How to reach me [LinkedIn](hhttps://www.linkedin.com/in/uttamsdev)
 
