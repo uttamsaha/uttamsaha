@@ -28,10 +28,9 @@ projects.</p>
 ### Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uttamsdev/)
-[![YouTube](https://img.shields.io/badge/youtube-CD201F.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@technotweaks9742)
+[![YouTube](https://img.shields.io/badge/youtube-CD201F.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@uttamsdev)
 [![Facebook](https://img.shields.io/badge/facebook-1877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/uttamsdev)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/uttamsaha404)
-[![Skype](https://img.shields.io/badge/skype-00AFF0.svg?&style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/UlqUgBACVMqb)
 
 ### 💻 Tech Stack:
 
