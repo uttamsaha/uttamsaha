@@ -90,4 +90,8 @@ projects.</p>
 
 ![](https://github-profile-trophy.vercel.app/?username=uttamsaha&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
-![snake gif](https://github.com/uttamsaha/uttamsaha/blob/main/uttam.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uttamsaha/uttamsaha/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uttamsaha/uttamsaha/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/uttamsaha/uttamsaha/output/github-snake.svg" />
+</picture>
