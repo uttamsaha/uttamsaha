@@ -13,7 +13,7 @@ specialize in front-end development and excel at building high-quality, user-fri
 turning ideas into seamless digital experiences, I'm always eager to explore new technologies and take on challenging
 projects.</p>
 
-- 🔭 I’m currently working on [Blockchain, Prisma & Mongoose](https://github.com/uttamsaha/Web3-Student-Feedback-System)
+- 🔭 I’m currently working on NextJS
 
 - 🌱 I’m currently learning **Cloud, AWS, Azure***
 
